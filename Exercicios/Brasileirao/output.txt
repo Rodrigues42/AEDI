@@ -1,0 +1,10 @@
+CAMPEAO: Equipe-A
+VICE-CAMPEAO: Equipe-C
+REBAIXADOS: Equipe-D, Equipe-F, Equipe-B e Equipe-E
+TABELA FINAL:
+Equipe-A 19 6 1 3 9 28 19
+Equipe-C 16 4 4 2 0 20 20
+Equipe-E 13 3 4 3 -1 18 19
+Equipe-B 12 3 3 4 -3 17 20
+Equipe-F 10 2 4 4 -3 18 21
+Equipe-D 9 1 6 3 -2 19 21
