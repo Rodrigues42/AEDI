@@ -1,0 +1,4 @@
+60
+45
+nao ha imediatamente maior que 80
+nao ha imediatamente menor que 60
