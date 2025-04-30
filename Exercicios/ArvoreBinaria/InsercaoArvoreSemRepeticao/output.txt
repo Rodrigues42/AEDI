@@ -1,0 +1,3 @@
+Chave 3 ja existe na arvore!
+Chave 4 ja existe na arvore!
+Chave 3 ja existe na arvore!

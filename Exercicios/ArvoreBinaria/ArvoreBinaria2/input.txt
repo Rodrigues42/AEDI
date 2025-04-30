@@ -1,0 +1,12 @@
+insert 5
+insert 5
+insert 5
+insert 10
+insert 10
+insert 4
+insert 4
+insert 6
+insert 6
+pre-order
+in-order
+post-order

@@ -1,0 +1,34 @@
+10
+I K
+I S
+I D
+I H
+I L
+I K
+I Y
+I B
+I H
+I S
+I A
+I Z
+M
+B A
+B B
+B C
+B D
+B E
+B F
+R K
+R H
+R S
+M
+B H
+B S
+B K
+B X
+R A
+R Z
+R V
+R A
+M
+EOF
